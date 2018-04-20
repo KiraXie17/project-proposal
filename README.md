@@ -17,10 +17,10 @@ My piece would be set up in a physical setting, assisted by Arduino Uno which co
 ### Extension 
 
 This project would be an extension of the piece that i did with connecting things. In my previous piece, I have created clusters of dots which would change color when users intervene with the script. I am gonna add Arduino as an external tool for my piece. This extension would enhance user experience with the script.
-
+![Previous Piece](previous_piece.png)
 
 ### Drawing or Sketch of Extended Piece
-
+![Sketch of Extended Piece](flowchart.jpg)
 
 ### Technical Details
 //   
